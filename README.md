@@ -29,4 +29,12 @@ Valid credentials for Reddit API access.
 Docker software installed.
 Python version 3.9 or newer.
 
-In this project, CodeWithYu YouTube channel and Yusuf Ganiyu airscholar github profile were used as sources.
+
+## 📌 Credits & References
+
+This project was inspired by [Yusuf Ganiyu (airscholar)](https://github.com/airscholar)'s GitHub repository and YouTube tutorials.  
+🔗 [Reddit Data Engineering](https://github.com/airscholar/RedditDataEngineering)
+
+I followed the steps provided and implemented this project for learning purposes while also adding my own improvements and documentation.
+
+Thanks to Yusuf Ganiyu for the valuable content! 🙌
